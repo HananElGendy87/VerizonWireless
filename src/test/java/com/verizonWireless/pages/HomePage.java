@@ -11,8 +11,6 @@ public class HomePage {
     public HomePage() {
         PageFactory.initElements(Driver.getDriver(), this);
     }
-        @FindBy(xpath = "//a[@class='elementor-item'][1]")
-                public static WebElement contactUsModule;
 
     }
 

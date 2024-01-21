@@ -1,8 +1,6 @@
 package com.verizonWireless.steps;
-
-
-import com.verizonWireless.utility.ConfigurationReader;
 import com.verizonWireless.utility.Driver;
+import com.verizonWireless.utility.ConfigurationReader;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
 import io.cucumber.java.Scenario;
